@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="My2JS.js"></script>
+</head>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My First Paragraph</p>
+
+<p id="demo"></p>
+<button type="button" onclick="writed()">try it</button>
+</body>
+</html>
+© 2020 GitHub, Inc.
